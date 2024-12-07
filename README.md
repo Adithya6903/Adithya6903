@@ -8,7 +8,7 @@ Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dar
 
 Saya juga memiliki gelar Google Associate Android Developer sejak 2024.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [https://www.linkedin.com/in/dida-adithya-879910229/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [[https://www.linkedin.com/in/dida-adithya-879910229/](https://www.linkedin.com/in/dida-adithya-879910229/))ku ya.
 
 ### Github Statistic
 <p align="left">
